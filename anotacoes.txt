@@ -1,0 +1,6 @@
+COMANDOS DO GIT:
+    1 - git clone coloque-no-lugar-desse-text-a-url-do-seu-Repository ()
+    2 - git status (mostra se o arquivo está ou não na lista de espera)
+    3 - git add .  (adiciona na lista de espera todos os aquivos que foram alterados)
+    3 - git commit 
+
